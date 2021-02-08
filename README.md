@@ -113,7 +113,7 @@ The easiest way to get the ignore correct is to:
 3. Create new git repository `git init`
 4. Add all files `git add -A`
 5. Check the status of the files/folders that will be added to git `git status` if more than wanted repeat from beginning
-6. Commit the files `git commmit -m "Initial commit"
+6. Commit the files `git commit -m "Initial commit"`
 7. Push to remote, check with git hosting providers for remote urls and push commands... 
 
 ## Why this?
